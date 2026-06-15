@@ -1,42 +1,21 @@
-# Customer Churn Prediction
+# Customer Churn Prediction AI Project
 
 ## Overview
 
-Customer Churn Prediction is a Machine Learning project that predicts whether a customer is likely to leave a service based on customer demographic and billing information.
+Customer Churn Prediction is an AI-powered Machine Learning project that predicts whether a customer is likely to stay with a service or leave based on customer demographics, contract details, billing information, and payment methods.
 
-The project uses a Random Forest Classifier trained on historical customer data and provides predictions through a Flask-based web application.
-
+The project combines Machine Learning with a Flask-based web application to provide real-time churn predictions through an interactive user interface.
 
 ## Features
 
-* Predict customer churn status
-* User-friendly web interface
-* Machine Learning model using Random Forest
-* Data preprocessing with Label Encoding
-* Flask web deployment
-* Responsive and modern UI
-
-## Technologies Used
-
-### Frontend
-
-* HTML5
-* CSS3
-
-### Backend
-
-* Python
-* Flask
-
-### Machine Learning
-
-* Scikit-Learn
-* Pandas
-* NumPy
+* Customer churn prediction using Machine Learning
+* Data preprocessing and label encoding
+* Random Forest Classification model
+* Real-time predictions through a Flask web application
+* User-friendly and responsive interface
+* Fast and accurate customer retention insights
 
 ## Dataset Features
-
-The model uses the following customer information:
 
 * Gender
 * Senior Citizen
@@ -48,15 +27,16 @@ The model uses the following customer information:
 * Contract Type
 * Payment Method
 
-## Installation
+## Technology Stack
 
-Install dependencies:
-
-pip install pandas numpy scikit-learn flask joblib
-
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Flask
+* HTML
+* CSS
 
 ## Author
 
 Rakshith Gatty
-
-
