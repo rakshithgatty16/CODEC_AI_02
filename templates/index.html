@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Customer Churn Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>📊 Customer Churn Prediction</h1>
+        <p>Predict whether a customer will stay or leave the service</p>
+    </div>
+
+    <form action="/predict" method="POST">
+
+        <div class="grid">
+
+            <div class="input-group">
+                <label>Gender</label>
+                <select name="gender">
+                    <option value="1">Male</option>
+                    <option value="0">Female</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Senior Citizen</label>
+                <select name="senior">
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Partner</label>
+                <select name="partner">
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Dependents</label>
+                <select name="dependents">
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Tenure (Months)</label>
+                <input type="number" name="tenure" required>
+            </div>
+
+            <div class="input-group">
+                <label>Monthly Charges</label>
+                <input type="number" name="monthly" required>
+            </div>
+
+            <div class="input-group">
+                <label>Total Charges</label>
+                <input type="number" name="total" required>
+            </div>
+
+            <div class="input-group">
+                <label>Contract</label>
+                <select name="contract">
+                    <option value="0">Month-to-month</option>
+                    <option value="1">One Year</option>
+                    <option value="2">Two Year</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Payment Method</label>
+                <select name="payment">
+                    <option value="0">Bank Transfer</option>
+                    <option value="1">Credit Card</option>
+                    <option value="2">Debit Card</option>
+                    <option value="3">UPI</option>
+                </select>
+            </div>
+
+        </div>
+
+        <button type="submit">Predict Customer Status</button>
+
+    </form>
+
+    {% if prediction_text %}
+    <div class="result">
+        {{ prediction_text }}
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>

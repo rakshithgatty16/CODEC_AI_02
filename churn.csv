@@ -1,0 +1,97 @@
+Gender,SeniorCitizen,Partner,Dependents,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+Male,0,Yes,No,12,850,10200,Month-to-month,UPI,Yes
+Female,0,No,No,45,1200,54000,One year,Credit Card,No
+Male,1,Yes,Yes,60,1500,90000,Two year,Bank Transfer,No
+Female,0,No,Yes,8,950,7600,Month-to-month,Debit Card,Yes
+Male,0,Yes,No,24,1100,26400,One year,UPI,No
+Female,1,No,No,6,1300,7800,Month-to-month,Credit Card,Yes
+Male,0,Yes,Yes,36,900,32400,Two year,Bank Transfer,No
+Female,0,No,No,15,700,10500,Month-to-month,UPI,Yes
+Male,1,Yes,No,48,1400,67200,One year,Debit Card,No
+Female,0,Yes,Yes,72,1800,129600,Two year,Credit Card,No
+Male,0,No,No,5,600,3000,Month-to-month,UPI,Yes
+Female,1,Yes,No,30,1250,37500,One year,Bank Transfer,No
+Male,0,Yes,Yes,54,1700,91800,Two year,Debit Card,No
+Female,0,No,No,10,850,8500,Month-to-month,Credit Card,Yes
+Male,1,Yes,No,40,1350,54000,One year,UPI,No
+Female,0,Yes,Yes,65,1900,123500,Two year,Bank Transfer,No
+Male,0,No,No,7,750,5250,Month-to-month,Debit Card,Yes
+Female,1,Yes,No,28,1150,32200,One year,Credit Card,No
+Male,0,Yes,Yes,50,1650,82500,Two year,UPI,No
+Female,0,No,No,9,950,8550,Month-to-month,Bank Transfer,Yes
+Male,0,Yes,No,18,1050,18900,One year,Credit Card,No
+Female,1,No,Yes,4,700,2800,Month-to-month,UPI,Yes
+Male,0,Yes,Yes,62,1750,108500,Two year,Debit Card,No
+Female,0,No,No,13,900,11700,Month-to-month,Credit Card,Yes
+Male,1,Yes,No,44,1450,63800,One year,Bank Transfer,No
+Female,0,Yes,Yes,68,1950,132600,Two year,UPI,No
+Male,0,No,No,6,650,3900,Month-to-month,Debit Card,Yes
+Female,1,Yes,No,33,1200,39600,One year,Credit Card,No
+Male,0,Yes,Yes,56,1800,100800,Two year,Bank Transfer,No
+Female,0,No,No,11,850,9350,Month-to-month,UPI,Yes
+Male,1,Yes,No,42,1500,63000,One year,Debit Card,No
+Female,0,Yes,Yes,70,2000,140000,Two year,Credit Card,No
+Male,0,No,No,3,500,1500,Month-to-month,Bank Transfer,Yes
+Female,1,Yes,No,27,1100,29700,One year,UPI,No
+Male,0,Yes,Yes,58,1700,98600,Two year,Debit Card,No
+Female,0,No,No,8,800,6400,Month-to-month,Credit Card,Yes
+Male,1,Yes,No,46,1550,71300,One year,Bank Transfer,No
+Female,0,Yes,Yes,64,1850,118400,Two year,UPI,No
+Male,0,No,No,5,700,3500,Month-to-month,Debit Card,Yes
+Female,1,Yes,No,35,1250,43750,One year,Credit Card,No
+Male,0,Yes,Yes,52,1750,91000,Two year,Bank Transfer,No
+Female,0,No,No,10,900,9000,Month-to-month,UPI,Yes
+Male,1,Yes,No,41,1450,59450,One year,Debit Card,No
+Female,0,Yes,Yes,66,1900,125400,Two year,Credit Card,No
+Male,0,No,No,7,750,5250,Month-to-month,Bank Transfer,Yes
+Female,1,Yes,No,29,1150,33350,One year,UPI,No
+Male,0,Yes,Yes,55,1650,90750,Two year,Debit Card,No
+Female,0,No,No,12,950,11400,Month-to-month,Credit Card,Yes
+Male,1,Yes,No,43,1400,60200,One year,Bank Transfer,No
+Female,0,Yes,Yes,71,1950,138450,Two year,UPI,No
+Male,0,No,No,4,600,2400,Month-to-month,Debit Card,Yes
+Female,1,Yes,No,32,1200,38400,One year,Credit Card,No
+Male,0,Yes,Yes,57,1800,102600,Two year,Bank Transfer,No
+Female,0,No,No,9,850,7650,Month-to-month,UPI,Yes
+Male,1,Yes,No,47,1500,70500,One year,Debit Card,No
+Female,0,Yes,Yes,69,2000,138000,Two year,Credit Card,No
+Male,0,No,No,6,650,3900,Month-to-month,Bank Transfer,Yes
+Female,1,Yes,No,31,1150,35650,One year,UPI,No
+Male,0,Yes,Yes,53,1700,90100,Two year,Debit Card,No
+Female,0,No,No,11,900,9900,Month-to-month,Credit Card,Yes
+Male,1,Yes,No,45,1450,65250,One year,Bank Transfer,No
+Female,0,Yes,Yes,67,1900,127300,Two year,UPI,No
+Male,0,No,No,5,700,3500,Month-to-month,Debit Card,Yes
+Female,1,Yes,No,34,1250,42500,One year,Credit Card,No
+Male,0,Yes,Yes,59,1750,103250,Two year,Bank Transfer,No
+Female,0,No,No,8,800,6400,Month-to-month,UPI,Yes
+Male,1,Yes,No,48,1550,74400,One year,Debit Card,No
+Female,0,Yes,Yes,72,2000,144000,Two year,Credit Card,No
+Male,0,No,No,4,550,2200,Month-to-month,Bank Transfer,Yes
+Female,1,Yes,No,30,1200,36000,One year,UPI,No
+Male,0,Yes,Yes,54,1650,89100,Two year,Debit Card,No
+Female,0,No,No,10,850,8500,Month-to-month,Credit Card,Yes
+Male,1,Yes,No,42,1450,60900,One year,Bank Transfer,No
+Female,0,Yes,Yes,65,1850,120250,Two year,UPI,No
+Male,0,No,No,7,750,5250,Month-to-month,Debit Card,Yes
+Female,1,Yes,No,28,1100,30800,One year,Credit Card,No
+Male,0,Yes,Yes,56,1700,95200,Two year,Bank Transfer,No
+Female,0,No,No,12,900,10800,Month-to-month,UPI,Yes
+Male,1,Yes,No,44,1500,66000,One year,Debit Card,No
+Female,0,Yes,Yes,68,1950,132600,Two year,Credit Card,No
+Male,0,No,No,5,650,3250,Month-to-month,Bank Transfer,Yes
+Female,1,Yes,No,33,1200,39600,One year,UPI,No
+Male,0,Yes,Yes,58,1800,104400,Two year,Debit Card,No
+Female,0,No,No,9,850,7650,Month-to-month,Credit Card,Yes
+Male,1,Yes,No,46,1450,66700,One year,Bank Transfer,No
+Female,0,Yes,Yes,70,2000,140000,Two year,UPI,No
+Male,0,No,No,6,700,4200,Month-to-month,Debit Card,Yes
+Female,1,Yes,No,29,1150,33350,One year,Credit Card,No
+Male,0,Yes,Yes,55,1750,96250,Two year,Bank Transfer,No
+Female,0,No,No,11,900,9900,Month-to-month,UPI,Yes
+Male,1,Yes,No,43,1500,64500,One year,Debit Card,No
+Female,0,Yes,Yes,66,1900,125400,Two year,Credit Card,No
+Male,0,No,No,8,750,6000,Month-to-month,Bank Transfer,Yes
+Female,1,Yes,No,31,1200,37200,One year,UPI,No
+Male,0,Yes,Yes,57,1700,96900,Two year,Debit Card,No
+Female,0,No,No,10,850,8500,Month-to-month,Credit Card,Yes
